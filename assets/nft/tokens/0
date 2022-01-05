@@ -1,1 +1,7 @@
-{ "image": "https://media-cdn.tripadvisor.com/media/photo-o/04/8a/4b/23/olive-garden.jpg" }
+{
+  "id": 0,
+  "description": "My NFT",
+  "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/04/8a/4b/23/olive-garden.jpg",
+  "name": "My NFT 0"
+}
